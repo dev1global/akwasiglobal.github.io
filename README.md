@@ -1,2 +1,2 @@
-# akwasiglobal.github.io
-# first on git
+# dev1global.github.io
+# First on github
