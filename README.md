@@ -1,2 +1,3 @@
-# Beginner Full Stack, DevOps engineer using C# & .Net core, Java & Spring, JavaScript with MERN | MEAN stack.
-## Lets develop together and build our world!!!
+## Beginner Full Stack|DevOps engineer using C# & .Net core, Java & Spring, JavaScript with MERN | MEAN stack.
+## Interest in Cyber Security|EH|Pentesting...
+# Lets develop together and build our world!!!
