@@ -1,2 +1,2 @@
-# Beginner Back-end, DevOps engineer using Java, Python, MERN Stack and PHP.
+# Beginner Full Stack, DevOps engineer using C# & .Net core, Java & Spring, JavaScript with MERN | MEAN.
 ## Lets develop together and build our world!!!
